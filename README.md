@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKRAM</h1>
 <h3 align="center">A passionate Full Stack Developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akram-2002&label=Profile%20views&color=0e75b6&style=flat" alt="akram-2002" /> </p>
+
 
 - 🔭 I’m currently Pursuing **SE ALX PROGRAM**
 
