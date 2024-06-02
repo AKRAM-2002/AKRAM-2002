@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm AKRAM</h1>
-<h3 align="center">A passionate Full Stack Developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Akram</h1>
+<h3 align="center">An Aspiring Software Engineer from Morocco</h3>
 
 
 
 - 🔭 I’m currently Pursuing **SE ALX PROGRAM**
 
-- 🌱 I’m currently learning **about AI, NLP, Web Development and ReactJS**
-
-- 💬 Ask me about **Python, ML & DL, NLP, ReactJS**
+- 💬 Ask me about **Frontend development, Backend Development**
 
 - 📫 How to reach me **AKRAMBOUTZOUGA@GMAIL.COM**
 
-- 📄 My Resume [https://www.notion.so/AKRAM-BOUTZOUGA-26ece312d6734299aee3c24700cd5e61?pvs=4](https://www.notion.so/AKRAM-BOUTZOUGA-26ece312d6734299aee3c24700cd5e61?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
